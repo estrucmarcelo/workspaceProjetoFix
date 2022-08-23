@@ -1,0 +1,22 @@
+package br.com.btg.service;
+
+import org.springframework.stereotype.Service;
+
+import br.com.btg.vo.Order;
+import io.allune.quickfixj.spring.boot.starter.template.QuickFixJTemplate;
+import lombok.AllArgsConstructor;
+
+@Service
+@AllArgsConstructor
+public class NewOrderSingleService {
+
+	private final QuickFixJTemplate clientQuickFIXJtemplate;
+	
+	
+	public void send42(Order order) {
+		
+	}
+	
+	
+	
+}

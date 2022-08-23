@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="io.allune.quickfixj.spring.boot.starter.EnableQuickFixJClient"/>
+    <fullyQualifiedTypeName name="lombok.extern.slf4j.Slf4j"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+    <fullyQualifiedTypeName name="io.allune.quickfixj.spring.boot.starter.template.QuickFixJTemplate"/>
+    <fullyQualifiedTypeName name="quickfix.fix42.NewOrderSingle"/>
+    <fullyQualifiedTypeName name="quickfix.field.ClOrdID"/>
+    <fullyQualifiedTypeName name="quickfix.field.HandlInst"/>
+    <fullyQualifiedTypeName name="quickfix.field.Symbol"/>
+    <fullyQualifiedTypeName name="br.com.btg.util.CommonsUtils"/>
+    <fullyQualifiedTypeName name="quickfix.field.TransactTime"/>
+    <fullyQualifiedTypeName name="quickfix.field.OrderQty"/>
+    <fullyQualifiedTypeName name="quickfix.field.LocateReqd"/>
+    <fullyQualifiedTypeName name="quickfix.field.Price"/>
+    <fullyQualifiedTypeName name="quickfix.field.StopPx"/>
+    <fullyQualifiedTypeName name="quickfix.field.OrigClOrdID"/>
+    <fullyQualifiedTypeName name="quickfix.fix42.OrderCancelRequest"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
+    <fullyQualifiedTypeName name="lombok.AllArgsConstructor"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestParam"/>
+    <fullyQualifiedTypeName name="br.com.btg.vo.Order"/>
+    <fullyQualifiedTypeName name="br.com.btg.vo.OrderSide"/>
+    <fullyQualifiedTypeName name="br.com.btg.vo.OrderType"/>
+    <fullyQualifiedTypeName name="br.com.btg.vo.OrderTIF"/>
+    <fullyQualifiedTypeName name="quickfix.SessionID"/>
+    <fullyQualifiedTypeName name="quickfix.Initiator"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="br.com.btg.service.NewOrderSingleService"/>
+    <fullyQualifiedTypeName name="br.com.btg.ProjetoFixApplication"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PostMapping"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.ResponseStatus"/>
+</qualifiedTypeNameHistroy>

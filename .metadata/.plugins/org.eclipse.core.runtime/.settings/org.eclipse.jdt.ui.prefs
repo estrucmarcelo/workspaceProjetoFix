@@ -1,0 +1,11 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="quickfix.StringField"><rhs name\="quickfix.field.ClOrdID"/><rhs name\="quickfix.field.Symbol"/><rhs name\="quickfix.field.OrigClOrdID"/></lhs><lhs name\="quickfix.Field"><rhs name\="quickfix.field.ClOrdID"/><rhs name\="quickfix.field.HandlInst"/><rhs name\="quickfix.field.Symbol"/><rhs name\="quickfix.field.TransactTime"/><rhs name\="quickfix.field.OrigClOrdID"/></lhs><lhs name\="quickfix.field.ClOrdID"><rhs name\="quickfix.field.ClOrdID"/></lhs><lhs name\="quickfix.CharField"><rhs name\="quickfix.field.HandlInst"/></lhs><lhs name\="quickfix.field.HandlInst"><rhs name\="quickfix.field.HandlInst"/></lhs><lhs name\="quickfix.field.Symbol"><rhs name\="quickfix.field.Symbol"/></lhs><lhs name\="quickfix.UtcTimeStampField"><rhs name\="quickfix.field.TransactTime"/></lhs><lhs name\="quickfix.field.TransactTime"><rhs name\="quickfix.field.TransactTime"/></lhs><lhs name\="br.com.btg.vo.OrderSide"><rhs name\="br.com.btg.vo.OrderSide"/></lhs><lhs name\="quickfix.field.OrigClOrdID"><rhs name\="quickfix.field.OrigClOrdID"/></lhs><lhs name\="br.com.btg.vo.OrderType"><rhs name\="br.com.btg.vo.OrderType"/></lhs><lhs name\="br.com.btg.vo.OrderTIF"><rhs name\="br.com.btg.vo.OrderTIF"/></lhs></history>
+content_assist_number_of_computers=15
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+org.eclipse.jdt.ui.formatterprofiles.version=22
+spelling_locale_initialized=true
+typefilter_migrated=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true
